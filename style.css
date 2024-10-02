@@ -1,0 +1,239 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    width: 100%;
+    height: 100%;
+}
+.photo1{
+    width: 50%;
+    position: absolute;
+    margin-left: -50%;
+    margin-top: 40px;
+}
+.contant-text{
+    margin-top: -50%;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contant-text h2{
+    font-size: 60px;
+    margin-top: 20px;
+    color: #419f41;
+}
+.contant-text h3{
+    margin-top: 20px;
+    font-size: 40px;
+}
+.contant-text p{
+    margin-top: 20px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 30px;
+}
+.contant-btn{
+    width: 200px;
+    height: 40px;
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+.contant-btn:hover{
+    background-color: #419f41;
+}
+.feature{
+    margin-top: 20%;
+    margin-left: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.software1{
+    width: 100px;
+    height: 100px;
+    border: 2px solid #419f41;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 110px;
+}
+.software1:hover{
+    background-color: black;
+}
+.software{
+    width: 25%;
+    text-align: center;
+    float: left;
+    margin-left: 80px;
+}
+.software h2{
+    margin-top: 10px;
+}
+.software p{
+    margin-top: 10px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 25px;
+}
+.about{
+    width: 100%;
+    height: 1000px;
+    background-color: #accfc4;
+    margin-top: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.about h2{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 50px;
+}
+span{
+    color: #419f41;
+}
+.why1{
+    width: 35%;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.about1{
+    margin-left: 50%;
+    margin-top: -27%;
+    position: absolute;
+}
+.about1 h3{
+    font-size: 30px;
+}
+.about1 p{
+    margin-top: 20px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 30px;
+}
+.about-btn1{
+    width: 200px;
+    height: 40px;
+    margin-top: 30px;
+    background-color: #accfc4;
+    border: 2px solid #419f41;
+}
+.about-btn1:hover{
+    background-color: #419f41;
+}
+.why2{
+    margin-top: 37%;
+    position: absolute;
+    margin-left: -35%;
+   
+}
+.about2{
+ margin-left: 50%;
+ margin-top: 70px;
+}
+.about2 h3{
+    font-size: 30px;
+}
+.about2 p{
+    margin-top: 20px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 30px;
+}
+.question h2{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 60px;
+}
+.ask{
+    width: 40%;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.question1{
+    margin-left: 60%;
+    margin-top: -27%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.question1 h3{
+    font-size: 30px;
+}
+.question1 p{
+    margin-top: 20px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 30px;
+}
+.ask-btn{
+    width: 200px;
+    height: 40px;
+    margin-top: 30px;
+    background-color: white;
+    border: 2px solid #419f41;
+}
+.ask-btn:hover{
+    background-color: #419f41;
+}
+.contact-us{
+    background-image: url('images/contact_bg.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    margin-top: 20%;
+}
+.form{
+    width: 30%;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 70px;
+}
+.i{
+    width: 85%;
+    height: 40px;
+    margin-top: 10px;
+}
+form{
+    margin-left: 40px;
+    margin-top: 20px;
+    
+}
+.form-btn{
+    width: 150px;
+    height: 40px;
+    margin-left: 70px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+.form-btn:hover{
+    background-color: #419f41;
+}
+.contact-us-text{
+    color: white;
+    margin-left: 20%;
+    margin-top: 100px;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contact-us-text h2{
+    font-size: 40px;
+}
+.contact-us-text h3{
+    font-size: 30px;
+    margin-top: 20px;
+    line-height: 50px;
+}
+.btn4{
+    width: 250px;
+    height: 40px;
+    margin-top: 40px;
+    border: none;
+    cursor: pointer;
+}
+.btn4:hover{
+    background-color: #419f41;
+    color: white;
+}
